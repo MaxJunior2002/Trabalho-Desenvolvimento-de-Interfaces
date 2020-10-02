@@ -1,0 +1,22 @@
+.navbar {
+    background-color: rgb(187, 176, 178);
+    width: 100%;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+.navbar-nav {
+    margin-left: 170px;
+}
+
+.nav-item p {
+    padding-top: 7px;
+}
+
+.carousel{
+    background-color: rgb(200, 209, 186);
+}
+
+iframe{
+    padding: 10px;
+}
