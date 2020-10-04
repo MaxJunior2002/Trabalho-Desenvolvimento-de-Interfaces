@@ -13,10 +13,60 @@
   padding-top: 7px;
 }
 
-.carousel {
+body {
   background-color: rgb(200, 209, 186);
 }
 
 iframe {
-  padding: 10px;
+  height: 90% !important;
+  width: 90% !important;
+  padding-left: 50px;
+}
+
+.titulo{
+  padding-left: 40%;
+}
+
+.em_destaque{
+  background-color: white;
+}
+
+p{
+  font-size: small;
+}
+
+.btn{
+  height: 80%;
+  margin-top: 5px;
+}
+
+.botao {
+  padding-left: 500px;
+}
+
+.botao2{
+  height: 80%;
+  margin-top: 10px;
+  margin-left: 460px;
+}
+
+img {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.ultimas_avaliacoes{
+  background-color: white;
+}
+
+.entrevistas {
+  background-color: rgb(200, 209, 186);
+}
+
+.bloco-final{
+  background-color: white;
+}
+
+footer {
+  background-color: rgb(200, 209, 186);
 }
